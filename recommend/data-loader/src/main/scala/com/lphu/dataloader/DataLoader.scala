@@ -22,8 +22,8 @@ case class MongoConfig( uri: String, db: String )
 
 object DataLoad {
 
-  val PRODUCT_DATA_FILE = "/Users/weidian/RecommendSystem/recommend/DataLoader/src/main/resources/products.csv"
-  val RATING_DATA_FILE = "/Users/weidian/RecommendSystem/recommend/DataLoader/src/main/resources/ratings.csv"
+  val PRODUCT_DATA_FILE = "../resources/products.csv"
+  val RATING_DATA_FILE = "../resources/ratings.csv"
 
   val MONGODB_PRODUCT_COLLECTION = "product"
   val MONGODB_RATING_COLLECTION = "rating"

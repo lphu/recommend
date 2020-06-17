@@ -12,7 +12,7 @@ debug:当此属性设置为true时，将打印出logback内部日志信息，实
 <configuration scan="true" scanPeriod="60 seconds" debug="false">
 
     <!--定义日志文件的存储地址 -->
-    <property name="LOG_HOME" value="/Users/weidian/recommend-system/logs" />
+    <property name="LOG_HOME" value="~/recommend-system/logs" />
 
     <!-- 控制台输出 -->
     <appender name="ConsoleLog" class="ch.qos.logback.core.ConsoleAppender">
