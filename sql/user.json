@@ -1,0 +1,77 @@
+{ 
+    "_id" : ObjectId("5e7305bb3333cd03d8ecd614"), 
+    "userId" : NumberInt(630372297), 
+    "userName" : "hupeilei", 
+    "password" : "hupeilei", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5e747c0f3333cd778ddcf618"), 
+    "userId" : NumberInt(97), 
+    "userName" : "a", 
+    "password" : "a", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5e748f303333cd0c05c6a958"), 
+    "userId" : NumberInt(113), 
+    "userName" : "q", 
+    "password" : "q", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5e7492323333cd10218359ca"), 
+    "userId" : NumberInt(3616), 
+    "userName" : "qq", 
+    "password" : "qq", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5e74968c3333cd23961eaa0a"), 
+    "userId" : NumberInt(112209), 
+    "userName" : "qqq", 
+    "password" : "qqq", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5e7820bb3333cd429428e345"), 
+    "userId" : NumberInt(3104), 
+    "userName" : "aa", 
+    "password" : "aa", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5e787d1f3333cd979cbefbb7"), 
+    "userId" : NumberInt(96339), 
+    "userName" : "aas", 
+    "password" : "aas", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5eb2f773db938a10624789fa"), 
+    "userId" : NumberInt(49), 
+    "userName" : "1", 
+    "password" : "1", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5eb35a80404f8a0d26fe0197"), 
+    "userId" : NumberInt(50), 
+    "userName" : "2", 
+    "password" : "2", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5eb35f74404f8a0d26fe019a"), 
+    "userId" : NumberInt(-1933295224), 
+    "userName" : "hupeilei1", 
+    "password" : "hupeilei1", 
+    "_class" : "com.lphu.model.domin.User"
+}
+{ 
+    "_id" : ObjectId("5eb35fe9404f8a0d26fe019b"), 
+    "userId" : NumberInt(2987073), 
+    "userName" : "abcc", 
+    "password" : "abcc", 
+    "_class" : "com.lphu.model.domin.User"
+}

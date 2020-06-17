@@ -1,0 +1,480 @@
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dc2"), 
+    "productId" : NumberInt(459600), 
+    "avg" : 4.810344827586207
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dc3"), 
+    "productId" : NumberInt(460360), 
+    "avg" : 4.737609329446064
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dc4"), 
+    "productId" : NumberInt(228884), 
+    "avg" : 4.7330246913580245
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dc5"), 
+    "productId" : NumberInt(201454), 
+    "avg" : 4.690340909090909
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dc6"), 
+    "productId" : NumberInt(387693), 
+    "avg" : 4.6652892561983474
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dc7"), 
+    "productId" : NumberInt(145218), 
+    "avg" : 4.64796633941094
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dc8"), 
+    "productId" : NumberInt(473113), 
+    "avg" : 4.641025641025641
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dc9"), 
+    "productId" : NumberInt(314081), 
+    "avg" : 4.640410958904109
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dca"), 
+    "productId" : NumberInt(259637), 
+    "avg" : 4.636636636636637
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dcb"), 
+    "productId" : NumberInt(371783), 
+    "avg" : 4.63035019455253
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dcc"), 
+    "productId" : NumberInt(469516), 
+    "avg" : 4.621794871794871
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dcd"), 
+    "productId" : NumberInt(184282), 
+    "avg" : 4.606116774791474
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dce"), 
+    "productId" : NumberInt(139060), 
+    "avg" : 4.59214501510574
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dcf"), 
+    "productId" : NumberInt(487126), 
+    "avg" : 4.586885245901639
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dd0"), 
+    "productId" : NumberInt(517740), 
+    "avg" : 4.583916083916084
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dd1"), 
+    "productId" : NumberInt(260348), 
+    "avg" : 4.580645161290323
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dd2"), 
+    "productId" : NumberInt(425715), 
+    "avg" : 4.563549160671463
+}
+{ 
+    "_id" : ObjectId("5e4f88c5a14650ed89bf3dd3"), 
+    "productId" : NumberInt(104168), 
+    "avg" : 4.563342318059299
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dd4"), 
+    "productId" : NumberInt(508447), 
+    "avg" : 4.554098360655738
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dd5"), 
+    "productId" : NumberInt(218439), 
+    "avg" : 4.553429027113237
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dd6"), 
+    "productId" : NumberInt(457976), 
+    "avg" : 4.547979797979798
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dd7"), 
+    "productId" : NumberInt(155001), 
+    "avg" : 4.5439429928741095
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dd8"), 
+    "productId" : NumberInt(62138), 
+    "avg" : 4.542600896860987
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dd9"), 
+    "productId" : NumberInt(520943), 
+    "avg" : 4.53469387755102
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dda"), 
+    "productId" : NumberInt(14103), 
+    "avg" : 4.519975786924939
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3ddb"), 
+    "productId" : NumberInt(127544), 
+    "avg" : 4.517684887459807
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3ddc"), 
+    "productId" : NumberInt(138554), 
+    "avg" : 4.512820512820513
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3ddd"), 
+    "productId" : NumberInt(160597), 
+    "avg" : 4.510948905109489
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dde"), 
+    "productId" : NumberInt(203971), 
+    "avg" : 4.495711835334477
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3ddf"), 
+    "productId" : NumberInt(407816), 
+    "avg" : 4.471774193548387
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de0"), 
+    "productId" : NumberInt(32512), 
+    "avg" : 4.471641791044776
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de1"), 
+    "productId" : NumberInt(231449), 
+    "avg" : 4.471086036671368
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de2"), 
+    "productId" : NumberInt(474201), 
+    "avg" : 4.468085106382978
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de3"), 
+    "productId" : NumberInt(275707), 
+    "avg" : 4.456043956043956
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de4"), 
+    "productId" : NumberInt(470839), 
+    "avg" : 4.4450980392156865
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de5"), 
+    "productId" : NumberInt(258451), 
+    "avg" : 4.4431137724550895
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de6"), 
+    "productId" : NumberInt(501559), 
+    "avg" : 4.434944237918216
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de7"), 
+    "productId" : NumberInt(109236), 
+    "avg" : 4.429539295392954
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de8"), 
+    "productId" : NumberInt(75701), 
+    "avg" : 4.423076923076923
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3de9"), 
+    "productId" : NumberInt(407523), 
+    "avg" : 4.420195439739413
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dea"), 
+    "productId" : NumberInt(206404), 
+    "avg" : 4.418152350081037
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3deb"), 
+    "productId" : NumberInt(250451), 
+    "avg" : 4.415800415800415
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dec"), 
+    "productId" : NumberInt(489369), 
+    "avg" : 4.413654618473895
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3ded"), 
+    "productId" : NumberInt(511015), 
+    "avg" : 4.407801418439717
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dee"), 
+    "productId" : NumberInt(8195), 
+    "avg" : 4.4070100143061515
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3def"), 
+    "productId" : NumberInt(183679), 
+    "avg" : 4.4
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df0"), 
+    "productId" : NumberInt(57272), 
+    "avg" : 4.39957264957265
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df1"), 
+    "productId" : NumberInt(6797), 
+    "avg" : 4.395585738539898
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df2"), 
+    "productId" : NumberInt(253869), 
+    "avg" : 4.393491124260355
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df3"), 
+    "productId" : NumberInt(204025), 
+    "avg" : 4.386363636363637
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df4"), 
+    "productId" : NumberInt(442353), 
+    "avg" : 4.385542168674699
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df5"), 
+    "productId" : NumberInt(3982), 
+    "avg" : 4.384615384615385
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df6"), 
+    "productId" : NumberInt(21643), 
+    "avg" : 4.383386581469648
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df7"), 
+    "productId" : NumberInt(410608), 
+    "avg" : 4.379939209726444
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df8"), 
+    "productId" : NumberInt(410716), 
+    "avg" : 4.370588235294117
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3df9"), 
+    "productId" : NumberInt(116405), 
+    "avg" : 4.351791530944626
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dfa"), 
+    "productId" : NumberInt(333125), 
+    "avg" : 4.343629343629344
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dfb"), 
+    "productId" : NumberInt(286997), 
+    "avg" : 4.341579731743666
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dfc"), 
+    "productId" : NumberInt(48907), 
+    "avg" : 4.335384615384616
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dfd"), 
+    "productId" : NumberInt(492579), 
+    "avg" : 4.334426229508197
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dfe"), 
+    "productId" : NumberInt(365357), 
+    "avg" : 4.328828828828829
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3dff"), 
+    "productId" : NumberInt(122417), 
+    "avg" : 4.324503311258278
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e00"), 
+    "productId" : NumberInt(33864), 
+    "avg" : 4.323907455012853
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e01"), 
+    "productId" : NumberInt(66003), 
+    "avg" : 4.321969696969697
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e02"), 
+    "productId" : NumberInt(438242), 
+    "avg" : 4.320872274143302
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e03"), 
+    "productId" : NumberInt(294209), 
+    "avg" : 4.312206572769953
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e04"), 
+    "productId" : NumberInt(507644), 
+    "avg" : 4.288819875776397
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e05"), 
+    "productId" : NumberInt(183418), 
+    "avg" : 4.2701212789415655
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e06"), 
+    "productId" : NumberInt(126767), 
+    "avg" : 4.224334600760456
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e07"), 
+    "productId" : NumberInt(90564), 
+    "avg" : 4.196581196581197
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e08"), 
+    "productId" : NumberInt(13543), 
+    "avg" : 4.194748358862144
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e09"), 
+    "productId" : NumberInt(367460), 
+    "avg" : 4.176470588235294
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e0a"), 
+    "productId" : NumberInt(443787), 
+    "avg" : 4.169172932330827
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e0b"), 
+    "productId" : NumberInt(499898), 
+    "avg" : 4.168269230769231
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e0c"), 
+    "productId" : NumberInt(323519), 
+    "avg" : 4.160194174757281
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e0d"), 
+    "productId" : NumberInt(13316), 
+    "avg" : 4.14612676056338
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e0e"), 
+    "productId" : NumberInt(326582), 
+    "avg" : 4.123762376237623
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e0f"), 
+    "productId" : NumberInt(302217), 
+    "avg" : 4.121856866537717
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e10"), 
+    "productId" : NumberInt(90897), 
+    "avg" : 4.12015503875969
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e11"), 
+    "productId" : NumberInt(352021), 
+    "avg" : 4.112403100775194
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e12"), 
+    "productId" : NumberInt(300265), 
+    "avg" : 4.104
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e13"), 
+    "productId" : NumberInt(102886), 
+    "avg" : 4.100303951367781
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e14"), 
+    "productId" : NumberInt(154318), 
+    "avg" : 4.061290322580645
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e15"), 
+    "productId" : NumberInt(186429), 
+    "avg" : 4.052238805970149
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e16"), 
+    "productId" : NumberInt(437230), 
+    "avg" : 4.017182130584192
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e17"), 
+    "productId" : NumberInt(379243), 
+    "avg" : 4.004728132387707
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e18"), 
+    "productId" : NumberInt(156103), 
+    "avg" : 3.9954337899543377
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e19"), 
+    "productId" : NumberInt(406697), 
+    "avg" : 3.9748953974895396
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e1a"), 
+    "productId" : NumberInt(505556), 
+    "avg" : 3.9593023255813953
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e1b"), 
+    "productId" : NumberInt(474853), 
+    "avg" : 3.942211055276382
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e1c"), 
+    "productId" : NumberInt(383502), 
+    "avg" : 3.9402597402597404
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e1d"), 
+    "productId" : NumberInt(119166), 
+    "avg" : 3.9233716475095783
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e1e"), 
+    "productId" : NumberInt(442300), 
+    "avg" : 3.876865671641791
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e1f"), 
+    "productId" : NumberInt(167781), 
+    "avg" : 3.7233009708737863
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e20"), 
+    "productId" : NumberInt(102383), 
+    "avg" : 3.696165191740413
+}
+{ 
+    "_id" : ObjectId("5e4f88c6a14650ed89bf3e21"), 
+    "productId" : NumberInt(353799), 
+    "avg" : 3.607547169811321
+}

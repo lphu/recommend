@@ -1,0 +1,2918 @@
+{ 
+    "_id" : ObjectId("5e660a52caaba771de9a326c"), 
+    "userId" : NumberInt(4867), 
+    "recs" : [
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 4.729580246082683
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 4.727559417342339
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 4.712596825305665
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 4.585929392233602
+        }, 
+        {
+            "productId" : NumberInt(260348), 
+            "score" : 4.17448816547775
+        }, 
+        {
+            "productId" : NumberInt(138554), 
+            "score" : 3.9729579374183395
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 3.966559809154413
+        }, 
+        {
+            "productId" : NumberInt(511015), 
+            "score" : 3.929107674988707
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 3.900349047619276
+        }, 
+        {
+            "productId" : NumberInt(104168), 
+            "score" : 3.893522049979378
+        }, 
+        {
+            "productId" : NumberInt(259637), 
+            "score" : 3.628218530682308
+        }, 
+        {
+            "productId" : NumberInt(126767), 
+            "score" : 3.5630008662000607
+        }, 
+        {
+            "productId" : NumberInt(119166), 
+            "score" : 3.433721057233414
+        }, 
+        {
+            "productId" : NumberInt(145218), 
+            "score" : 3.4145680595996923
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 3.3645792247191917
+        }, 
+        {
+            "productId" : NumberInt(218439), 
+            "score" : 3.329175634386112
+        }, 
+        {
+            "productId" : NumberInt(13543), 
+            "score" : 3.2203732136033496
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 2.935675029825273
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 2.902596554993025
+        }, 
+        {
+            "productId" : NumberInt(260348), 
+            "score" : 2.8811528794751107
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 2.75595725893241
+        }, 
+        {
+            "productId" : NumberInt(474853), 
+            "score" : 2.7374899781103674
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 2.7349595979688868
+        }, 
+        {
+            "productId" : NumberInt(511015), 
+            "score" : 2.7211401279099334
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 2.6937854168792885
+        }, 
+        {
+            "productId" : NumberInt(138554), 
+            "score" : 2.6456467152257708
+        }, 
+        {
+            "productId" : NumberInt(13543), 
+            "score" : 2.6285875155133436
+        }, 
+        {
+            "productId" : NumberInt(119166), 
+            "score" : 2.595081545897516
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 2.5945268410111115
+        }, 
+        {
+            "productId" : NumberInt(259637), 
+            "score" : 2.5355317059131504
+        }, 
+        {
+            "productId" : NumberInt(145218), 
+            "score" : 2.477230323574794
+        }, 
+        {
+            "productId" : NumberInt(383502), 
+            "score" : 2.4633564321295633
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 2.369743381882668
+        }, 
+        {
+            "productId" : NumberInt(138554), 
+            "score" : 2.350676938184314
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 2.292584750888736
+        }, 
+        {
+            "productId" : NumberInt(218439), 
+            "score" : 2.286271642359977
+        }, 
+        {
+            "productId" : NumberInt(259637), 
+            "score" : 2.2744853955546986
+        }, 
+        {
+            "productId" : NumberInt(145218), 
+            "score" : 2.2291024079274444
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 2.221862550354241
+        }, 
+        {
+            "productId" : NumberInt(126767), 
+            "score" : 2.2094576938347634
+        }, 
+        {
+            "productId" : NumberInt(104168), 
+            "score" : 2.183146727789116
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 2.1614815392048357
+        }, 
+        {
+            "productId" : NumberInt(383502), 
+            "score" : 2.1055664159761074
+        }, 
+        {
+            "productId" : NumberInt(218439), 
+            "score" : 2.0563032345980643
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 2.0432657654288477
+        }, 
+        {
+            "productId" : NumberInt(260348), 
+            "score" : 2.0268742575072047
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 2.009840074480368
+        }, 
+        {
+            "productId" : NumberInt(104168), 
+            "score" : 1.9348816934900919
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 1.877225513713545
+        }, 
+        {
+            "productId" : NumberInt(474853), 
+            "score" : 1.860098811864206
+        }, 
+        {
+            "productId" : NumberInt(126767), 
+            "score" : 1.7442227157999506
+        }, 
+        {
+            "productId" : NumberInt(474853), 
+            "score" : 1.7364993777656808
+        }, 
+        {
+            "productId" : NumberInt(511015), 
+            "score" : 1.6760264374446225
+        }, 
+        {
+            "productId" : NumberInt(406697), 
+            "score" : 1.6634469932880402
+        }, 
+        {
+            "productId" : NumberInt(383502), 
+            "score" : 1.6154215283339926
+        }, 
+        {
+            "productId" : NumberInt(13543), 
+            "score" : 1.5496499554070915
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 1.3637171649869781
+        }, 
+        {
+            "productId" : NumberInt(260348), 
+            "score" : 0.9877587448994295
+        }, 
+        {
+            "productId" : NumberInt(13543), 
+            "score" : 0.9846316087387049
+        }, 
+        {
+            "productId" : NumberInt(511015), 
+            "score" : 0.9703511292000154
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 0.9233746686010084
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 0.90985774728028
+        }, 
+        {
+            "productId" : NumberInt(145218), 
+            "score" : 0.8898117804344124
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 0.8802973420354895
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 0.8367432012238387
+        }, 
+        {
+            "productId" : NumberInt(218439), 
+            "score" : 0.8281788076843087
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 0.8196291136206091
+        }, 
+        {
+            "productId" : NumberInt(259637), 
+            "score" : 0.8195842330925199
+        }, 
+        {
+            "productId" : NumberInt(126767), 
+            "score" : 0.8132849428232792
+        }, 
+        {
+            "productId" : NumberInt(138554), 
+            "score" : 0.7980518460814229
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 0.7784382364805934
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 0.7573855793916735
+        }, 
+        {
+            "productId" : NumberInt(104168), 
+            "score" : 0.7537331253796744
+        }, 
+        {
+            "productId" : NumberInt(383502), 
+            "score" : 0.7460296459417282
+        }, 
+        {
+            "productId" : NumberInt(119166), 
+            "score" : 0.7246116969654885
+        }, 
+        {
+            "productId" : NumberInt(406697), 
+            "score" : 0.6199120893091636
+        }, 
+        {
+            "productId" : NumberInt(474853), 
+            "score" : 0.5716295996703962
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e78623e3333cd6d43f85789"), 
+    "userId" : NumberInt(630372297), 
+    "recs" : [
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 4.553412856086099
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 4.495479459574444
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.276328662312706
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 4.208814326511578
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.198864176704678
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 4.170813701437761
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 4.144640331665052
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 4.01856395190369
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.0101965432398385
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 3.9820734542273084
+        }, 
+        {
+            "productId" : NumberInt(66003), 
+            "score" : 3.9599037374466652
+        }, 
+        {
+            "productId" : NumberInt(474201), 
+            "score" : 3.9502190938245962
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 3.9123024701178473
+        }, 
+        {
+            "productId" : NumberInt(14103), 
+            "score" : 3.8939844680665106
+        }, 
+        {
+            "productId" : NumberInt(474201), 
+            "score" : 3.8896019397390753
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 3.873275470829517
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.7898116213782673
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 3.7760046022253833
+        }, 
+        {
+            "productId" : NumberInt(14103), 
+            "score" : 3.666693401052762
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.658123285737541
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.621779779833283
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 3.599011095700599
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 3.538522408507781
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 3.5365834470239577
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.433628434214864
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.4095734683145884
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.4062531126031272
+        }, 
+        {
+            "productId" : NumberInt(138554), 
+            "score" : 3.405059615553521
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 3.401280290080588
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.3885763026354776
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.385571728576491
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.3772984587093573
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.3453853767695167
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 3.345383512312517
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 3.3261099273546018
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 3.317651287126639
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 3.316934060204786
+        }, 
+        {
+            "productId" : NumberInt(138554), 
+            "score" : 3.3161088510020136
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 3.315241743304695
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.3014859715471423
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 3.28624697163801
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 3.2793821393881077
+        }, 
+        {
+            "productId" : NumberInt(66003), 
+            "score" : 3.2748282156719792
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.267699059361263
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 3.2540634213591035
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 3.2256308472596995
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 3.2149150245978446
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 3.1564696463977344
+        }, 
+        {
+            "productId" : NumberInt(437230), 
+            "score" : 3.142823628046296
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 3.133419891792821
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 3.1114271530713307
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 3.098407081229331
+        }, 
+        {
+            "productId" : NumberInt(66003), 
+            "score" : 3.0750297410936254
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 3.011445938869267
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 2.9835020541109514
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 2.9679257803015573
+        }, 
+        {
+            "productId" : NumberInt(474201), 
+            "score" : 2.9110614410315376
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 2.902740206124326
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 2.895692008292418
+        }, 
+        {
+            "productId" : NumberInt(138554), 
+            "score" : 2.882191000738648
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 2.8814638043475544
+        }, 
+        {
+            "productId" : NumberInt(474201), 
+            "score" : 2.863250083306119
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 2.8615514824854804
+        }, 
+        {
+            "productId" : NumberInt(14103), 
+            "score" : 2.84000842926188
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 2.8375573098165017
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 2.836859509157908
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 2.831412656372399
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 2.824530733210682
+        }, 
+        {
+            "productId" : NumberInt(14103), 
+            "score" : 2.8222340217475304
+        }, 
+        {
+            "productId" : NumberInt(66003), 
+            "score" : 2.779331102498212
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 2.668589015884089
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 2.6592644118544992
+        }, 
+        {
+            "productId" : NumberInt(138554), 
+            "score" : 2.6158820381338943
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.5479767669817246
+        }, 
+        {
+            "productId" : NumberInt(437230), 
+            "score" : 2.5115792379138258
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 2.4866657759443833
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 2.4710987588396245
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 2.4254482829162716
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 2.370220335761502
+        }, 
+        {
+            "productId" : NumberInt(8195), 
+            "score" : 2.345692806382518
+        }, 
+        {
+            "productId" : NumberInt(8195), 
+            "score" : 2.343410596121157
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 2.2891843852682103
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 2.2749397922416326
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 2.2337558433541584
+        }, 
+        {
+            "productId" : NumberInt(8195), 
+            "score" : 2.180782680302821
+        }, 
+        {
+            "productId" : NumberInt(14103), 
+            "score" : 2.0901372428304206
+        }, 
+        {
+            "productId" : NumberInt(437230), 
+            "score" : 2.0504636067362148
+        }, 
+        {
+            "productId" : NumberInt(8195), 
+            "score" : 2.0487524809609474
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e787c143333cd979805dd5d"), 
+    "userId" : NumberInt(97), 
+    "recs" : [
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 4.950029386045554
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 4.88507121541936
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 4.88201166179557
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.878811602589328
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 4.778546678225034
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 4.753980402359768
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 4.721333112477671
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 4.710909466603846
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 4.696025209898299
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 4.6865056921726564
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.6632850627186375
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 4.6282432558260265
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 4.6206680785692695
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 4.616733414746448
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 4.603295868972892
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 4.602414466578074
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 4.60164200506381
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 4.584990912286527
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 4.5831631885963695
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 4.578408514142574
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 4.5748876214894505
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 4.565449983406044
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 4.557166776589327
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 4.549441952270664
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.514238201012082
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 4.495479459574444
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.48965913533914
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 4.478390366134587
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.473484638415099
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.467284369091557
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 4.461602248528438
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 4.460877802031463
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 4.455001815892749
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 4.4481409098310065
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 4.431637581189537
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 4.430991487407174
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 4.409758701977454
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 4.369045701157522
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 4.36264592508516
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.3621292689792
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 4.291856430477596
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 4.291239367426245
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 4.269517113409928
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 4.2594150671999715
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.239418641525513
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 4.234776890718252
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.2321102500422345
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.2213471041709125
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.204148266175357
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 4.1766685979868425
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.17140262423826
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.147703481842542
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 4.1420482935344785
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 4.123513649453247
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 4.1113727284015775
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 4.084369809923335
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 4.075507029424826
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 4.048634588601222
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.034614615060147
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 4.032190885771767
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 4.008470012548353
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 4.00649589318995
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 3.9599037374466652
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 3.929750377249797
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 3.8965553415870335
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.859588451940792
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 3.8468560770222537
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 3.846264861714122
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.838105982922659
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 3.8368554122433425
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 3.810382815943668
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 3.807328123866828
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 3.80619017191398
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 3.800788648373806
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.7789777590342104
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 3.7657355988895747
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.761896232921287
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 3.758177564843177
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 3.7562727276332923
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 3.7520934249396474
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 3.749873267181583
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.7425670594236076
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.7273607585631003
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 3.7262582718277657
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 3.7247013840143706
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.7238966912832234
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 3.682626719176205
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 3.678133191219779
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 3.6766779238759035
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 3.640164375131971
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 3.6167075567133216
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 3.614945635692153
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 3.6091768889158544
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 3.601822565121499
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 3.600279693932585
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 3.58996889946578
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 3.575443905847844
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 3.566021368694204
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 3.549131857632997
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 3.5356145939970887
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 3.533756886182925
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.5303072821589563
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 3.528753624736746
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 3.5162849592214056
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 3.5156004246786146
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 3.501123355769834
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 3.49900355169514
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 3.4808784721158252
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 3.4744797895071224
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 3.4667529919147215
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 3.463969789368478
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.438841638897992
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.433628434214864
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 3.422069317075725
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 3.41728641734152
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 3.415427499592756
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 3.4095734683145884
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 3.400169689641875
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.3996885905422114
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 3.36840769543339
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 3.357734629220013
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 3.3510879306599284
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 3.342616006887006
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 3.335585571457008
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 3.3297533119242866
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 3.3118917913769392
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 3.2998536321138214
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 3.298454488197299
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 3.286667562781199
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 3.279974150579461
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 3.277051528479265
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 3.2745798964427735
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.2596018018499544
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 3.2469574732959012
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 3.21367726401966
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 3.1733672487048077
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 3.1698550935373757
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.1667116260353816
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 3.1523709890849854
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 3.1452404821829036
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 3.137706316949768
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 3.134317375780139
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 3.1225741163109633
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 3.0779247017746143
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 3.051401252086791
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 3.05121427586188
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.0477753330736506
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 3.04354795853774
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 3.0225288563961463
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 3.0108451610812654
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 3.008972225835141
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 3.000747794214269
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 2.9873023449436658
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 2.985886158413975
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 2.967770427653205
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 2.960141866650188
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 2.955788277154775
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.9409291534251367
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 2.9279223420612692
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 2.9128432314194024
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 2.9032817448314145
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 2.8982026196608874
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 2.897620107228305
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 2.895692008292418
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 2.8845364210279056
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 2.860833740816604
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 2.859192615856701
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.840324759205248
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 2.8381838580428416
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 2.8344032544582256
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 2.827380654377959
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 2.775040744439049
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 2.7664483949074152
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.765632664380898
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 2.7105567279011367
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 2.7055112775914676
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 2.671656253250385
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 2.671626942210695
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 2.6711332022714016
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 2.670947364783728
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.6588947896705544
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 2.6575807318613958
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 2.6399002961632436
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 2.639683862643591
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 2.6380680758099317
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 2.6295126665598705
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 2.6192111333052908
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 2.6093970051692925
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 2.6021958442934783
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 2.598208270199141
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 2.5969307907103376
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 2.585689938248893
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 2.581680001908668
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 2.5579486532546425
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 2.5578402555813367
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 2.5550357051232595
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 2.5518393659979983
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.5479767669817246
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 2.5441502980238386
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 2.5394643504913708
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 2.538047850324565
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 2.537476190699869
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 2.527247290006133
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 2.4902032284304605
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 2.4831383650710004
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 2.4774480741291613
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 2.453555744576523
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 2.4457620402526827
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 2.421863494573562
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 2.4168862641537237
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 2.381930779279263
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 2.3473309026891966
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 2.337557782551675
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 2.3083757352032253
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 2.298567129775497
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 2.2831492063635244
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 2.2749397922416326
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 2.2735064952601824
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 2.2728011682405906
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 2.267951855357121
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 2.260025891674842
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 2.2429782369272244
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 2.2337558433541584
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 2.2334611633512362
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 2.2095741478857933
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 2.2074091073040965
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.1941414377911057
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 2.178472608293962
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 2.176345737038537
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 2.160882615517249
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 2.1490529848329727
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 2.1027357840597816
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 2.073845840907045
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 2.0703421447698407
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 2.0492657216071257
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 2.0400097100035706
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 2.038395045485267
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 2.0353410569615202
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 2.0221099045226154
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 2.0207118896486564
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 1.9896867290663625
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 1.9807274475619239
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 1.9608802755171233
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 1.9560281731565945
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 1.9530794368415516
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 1.9432202082055325
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 1.9074181341139889
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 1.8987672794534909
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 1.895176973644152
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 1.8875538117224617
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 1.8852731837260153
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 1.8795767658322728
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 1.855643380058755
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 1.8507941034060789
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 1.8384611572183336
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 1.837758829279277
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 1.824048760174607
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 1.8078184230929093
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 1.803327591748607
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 1.7828179474022445
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 1.7482880007436077
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 1.7362703890203026
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 1.7251086102325837
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 1.7155192593033357
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 1.7047070016708443
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 1.6958579694529987
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 1.6820548469447523
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 1.680271452622184
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 1.6766564160998794
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 1.6638025207419453
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 1.6477485216259966
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 1.6308631883734206
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 1.615105302845494
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 1.60891832998142
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 1.5818465196245148
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 1.5528320916651464
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 1.5466241666803868
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 1.5156859516200807
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 1.5074750521060647
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 1.5063916569537832
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 1.471529948281936
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 1.4574699232628312
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 1.4522877806922947
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 1.397657883345578
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 1.3759030886214636
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 1.3735106311609262
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 1.372734611390083
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 1.3457632559766068
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 1.3311178016664258
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 1.3264435404008055
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 1.300596035909399
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 1.2523821546393048
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 1.246570279349269
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 1.245918461414001
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 1.2128044774708595
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 1.192651705855289
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 1.162593844478306
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 1.15750458351867
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 1.1383446709457479
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 1.1305857524904852
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 1.1040389201134393
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 1.0699320568864263
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 1.0552149340950914
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 1.0400664685970191
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 1.0374820333634651
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 1.022137494542881
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 0.9988231761514583
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 0.9711330780854046
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 0.9609804514253886
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 0.9520324731658408
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 0.9472746715655436
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 0.919189016369629
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 0.9024064940825319
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 0.8940323040575896
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 0.8562377839409614
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 0.8547408684788523
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 0.8517372521437373
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 0.8417516860179292
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 0.8254413229013875
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 0.8232070624231124
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 0.8141561177043696
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 0.79836572148047
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 0.7929821131738916
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 0.7821072524562973
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 0.7683885079561376
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 0.7624935065585711
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 0.7616711051563448
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 0.756357486499525
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 0.7525537438448544
+        }, 
+        {
+            "productId" : NumberInt(253869), 
+            "score" : 0.7234925720674736
+        }, 
+        {
+            "productId" : NumberInt(275707), 
+            "score" : 0.7041991510854622
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 0.6954069301884979
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 0.692800181102065
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 0.6901301356886457
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 0.688599522618656
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 0.6316187310415513
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 0.6196814162458663
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 0.5955475736307122
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 0.573394693273385
+        }, 
+        {
+            "productId" : NumberInt(294209), 
+            "score" : 0.5024121630432683
+        }, 
+        {
+            "productId" : NumberInt(410608), 
+            "score" : 0.4848318114417762
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5e787d483333cd979805dd63"), 
+    "userId" : NumberInt(96339), 
+    "recs" : [
+        {
+            "productId" : NumberInt(286997), 
+            "score" : 4.93720452321045
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 4.866895560609412
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 4.729023341778848
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.71046515725057
+        }, 
+        {
+            "productId" : NumberInt(371783), 
+            "score" : 4.623055563640704
+        }, 
+        {
+            "productId" : NumberInt(48907), 
+            "score" : 4.618732885001282
+        }, 
+        {
+            "productId" : NumberInt(75701), 
+            "score" : 4.561208088005334
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 4.5283411438053625
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 4.517884125854275
+        }, 
+        {
+            "productId" : NumberInt(365357), 
+            "score" : 4.43935315325568
+        }, 
+        {
+            "productId" : NumberInt(407816), 
+            "score" : 4.43527615811597
+        }, 
+        {
+            "productId" : NumberInt(204025), 
+            "score" : 4.434309073608404
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 4.378783834180935
+        }, 
+        {
+            "productId" : NumberInt(505556), 
+            "score" : 4.3131443528085525
+        }, 
+        {
+            "productId" : NumberInt(32512), 
+            "score" : 4.257380607323335
+        }, 
+        {
+            "productId" : NumberInt(367460), 
+            "score" : 4.252347564855517
+        }, 
+        {
+            "productId" : NumberInt(300265), 
+            "score" : 4.234983182571766
+        }, 
+        {
+            "productId" : NumberInt(286997), 
+            "score" : 4.228574357831654
+        }, 
+        {
+            "productId" : NumberInt(48907), 
+            "score" : 4.224492585534813
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 4.221890967816288
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 4.198262100948725
+        }, 
+        {
+            "productId" : NumberInt(204025), 
+            "score" : 4.1702351197333805
+        }, 
+        {
+            "productId" : NumberInt(62138), 
+            "score" : 4.1698313217550576
+        }, 
+        {
+            "productId" : NumberInt(300265), 
+            "score" : 4.151179189660538
+        }, 
+        {
+            "productId" : NumberInt(371783), 
+            "score" : 4.147756974326296
+        }, 
+        {
+            "productId" : NumberInt(505556), 
+            "score" : 4.10192671012173
+        }, 
+        {
+            "productId" : NumberInt(505556), 
+            "score" : 4.094880764065989
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.092311691468328
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 4.076346896703176
+        }, 
+        {
+            "productId" : NumberInt(204025), 
+            "score" : 4.0714101017444815
+        }, 
+        {
+            "productId" : NumberInt(204025), 
+            "score" : 4.07092220230348
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 4.038113957796345
+        }, 
+        {
+            "productId" : NumberInt(75701), 
+            "score" : 4.0354727888532
+        }, 
+        {
+            "productId" : NumberInt(371783), 
+            "score" : 4.013096938793364
+        }, 
+        {
+            "productId" : NumberInt(186429), 
+            "score" : 3.9910434151210756
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 3.9808377095712535
+        }, 
+        {
+            "productId" : NumberInt(32512), 
+            "score" : 3.9800466989128243
+        }, 
+        {
+            "productId" : NumberInt(367460), 
+            "score" : 3.974411021909716
+        }, 
+        {
+            "productId" : NumberInt(407816), 
+            "score" : 3.9735252321917462
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 3.9603412965960443
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.9494545880239906
+        }, 
+        {
+            "productId" : NumberInt(407816), 
+            "score" : 3.9325656258732122
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 3.9322321723575357
+        }, 
+        {
+            "productId" : NumberInt(365357), 
+            "score" : 3.9168812498062087
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 3.913579051139412
+        }, 
+        {
+            "productId" : NumberInt(62138), 
+            "score" : 3.907508540789916
+        }, 
+        {
+            "productId" : NumberInt(367460), 
+            "score" : 3.906203392531377
+        }, 
+        {
+            "productId" : NumberInt(286997), 
+            "score" : 3.9007987413894774
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 3.8657635660017053
+        }, 
+        {
+            "productId" : NumberInt(186429), 
+            "score" : 3.859441130122442
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.7635585488657064
+        }, 
+        {
+            "productId" : NumberInt(407816), 
+            "score" : 3.740568686059683
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 3.737984248589444
+        }, 
+        {
+            "productId" : NumberInt(75701), 
+            "score" : 3.7302884123558537
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.714171717990535
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 3.6970278430927612
+        }, 
+        {
+            "productId" : NumberInt(371783), 
+            "score" : 3.682806346358356
+        }, 
+        {
+            "productId" : NumberInt(48907), 
+            "score" : 3.6428449622292023
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.621779779833283
+        }, 
+        {
+            "productId" : NumberInt(186429), 
+            "score" : 3.614303444614669
+        }, 
+        {
+            "productId" : NumberInt(48907), 
+            "score" : 3.6008399071446884
+        }, 
+        {
+            "productId" : NumberInt(32512), 
+            "score" : 3.5995348658195807
+        }, 
+        {
+            "productId" : NumberInt(367460), 
+            "score" : 3.552301477773145
+        }, 
+        {
+            "productId" : NumberInt(32512), 
+            "score" : 3.5472100756276506
+        }, 
+        {
+            "productId" : NumberInt(62138), 
+            "score" : 3.5235815438098297
+        }, 
+        {
+            "productId" : NumberInt(300265), 
+            "score" : 3.5128095723168338
+        }, 
+        {
+            "productId" : NumberInt(286997), 
+            "score" : 3.5111760416516042
+        }, 
+        {
+            "productId" : NumberInt(365357), 
+            "score" : 3.4702602759767136
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.433628434214864
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 3.401280290080588
+        }, 
+        {
+            "productId" : NumberInt(48907), 
+            "score" : 3.3927590455499765
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 3.389381228146012
+        }, 
+        {
+            "productId" : NumberInt(505556), 
+            "score" : 3.356166199273047
+        }, 
+        {
+            "productId" : NumberInt(371783), 
+            "score" : 3.3227534537996775
+        }, 
+        {
+            "productId" : NumberInt(286997), 
+            "score" : 3.3215352121343282
+        }, 
+        {
+            "productId" : NumberInt(407816), 
+            "score" : 3.31891744978826
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 3.267699059361263
+        }, 
+        {
+            "productId" : NumberInt(407816), 
+            "score" : 3.2636945713328545
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 3.1775970748620175
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 3.1643675193327976
+        }, 
+        {
+            "productId" : NumberInt(48907), 
+            "score" : 3.15044576756908
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 3.1145152593069865
+        }, 
+        {
+            "productId" : NumberInt(75701), 
+            "score" : 3.0346326227894966
+        }, 
+        {
+            "productId" : NumberInt(32512), 
+            "score" : 3.033284911422809
+        }, 
+        {
+            "productId" : NumberInt(371783), 
+            "score" : 3.0311004269957107
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 3.0021626428696
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 2.9835020541109514
+        }, 
+        {
+            "productId" : NumberInt(32512), 
+            "score" : 2.9537257102828263
+        }, 
+        {
+            "productId" : NumberInt(365357), 
+            "score" : 2.945012956975734
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 2.902740206124326
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 2.8814638043475544
+        }, 
+        {
+            "productId" : NumberInt(505556), 
+            "score" : 2.8549988944248073
+        }, 
+        {
+            "productId" : NumberInt(75701), 
+            "score" : 2.843362476159422
+        }, 
+        {
+            "productId" : NumberInt(300265), 
+            "score" : 2.840233471486423
+        }, 
+        {
+            "productId" : NumberInt(300265), 
+            "score" : 2.802720250060763
+        }, 
+        {
+            "productId" : NumberInt(62138), 
+            "score" : 2.7513209776826546
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 2.7300639905125283
+        }, 
+        {
+            "productId" : NumberInt(75701), 
+            "score" : 2.6892039726681904
+        }, 
+        {
+            "productId" : NumberInt(62138), 
+            "score" : 2.665305789479259
+        }, 
+        {
+            "productId" : NumberInt(365357), 
+            "score" : 2.5849103050086613
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.5479767669817246
+        }, 
+        {
+            "productId" : NumberInt(286997), 
+            "score" : 2.490027117960243
+        }, 
+        {
+            "productId" : NumberInt(204025), 
+            "score" : 2.449171942613404
+        }, 
+        {
+            "productId" : NumberInt(505556), 
+            "score" : 2.4474473276335376
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 2.4254482829162716
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 2.370220335761502
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 2.340149554343293
+        }, 
+        {
+            "productId" : NumberInt(186429), 
+            "score" : 2.3129336853699147
+        }, 
+        {
+            "productId" : NumberInt(365357), 
+            "score" : 2.300170010645431
+        }, 
+        {
+            "productId" : NumberInt(367460), 
+            "score" : 2.0506087998624083
+        }, 
+        {
+            "productId" : NumberInt(300265), 
+            "score" : 2.022591706014776
+        }, 
+        {
+            "productId" : NumberInt(442353), 
+            "score" : 1.9743312717909496
+        }, 
+        {
+            "productId" : NumberInt(438242), 
+            "score" : 1.8570519121729645
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5eb35a5c404f8a0d17886645"), 
+    "userId" : NumberInt(49), 
+    "recs" : [
+        {
+            "productId" : NumberInt(517740), 
+            "score" : 4.897030046390304
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 4.881297006485229
+        }, 
+        {
+            "productId" : NumberInt(365357), 
+            "score" : 4.7829668769212015
+        }, 
+        {
+            "productId" : NumberInt(90564), 
+            "score" : 4.776519454665489
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.693631658987415
+        }, 
+        {
+            "productId" : NumberInt(75701), 
+            "score" : 4.678156047143795
+        }, 
+        {
+            "productId" : NumberInt(333125), 
+            "score" : 4.673115643026687
+        }, 
+        {
+            "productId" : NumberInt(218439), 
+            "score" : 4.666019182463015
+        }, 
+        {
+            "productId" : NumberInt(258451), 
+            "score" : 4.629404964109664
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 4.586357968614376
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 4.552221466664959
+        }, 
+        {
+            "productId" : NumberInt(21643), 
+            "score" : 4.531297658334549
+        }, 
+        {
+            "productId" : NumberInt(109236), 
+            "score" : 4.481992200647006
+        }, 
+        {
+            "productId" : NumberInt(57272), 
+            "score" : 4.413640952339598
+        }, 
+        {
+            "productId" : NumberInt(508447), 
+            "score" : 4.402706762274821
+        }, 
+        {
+            "productId" : NumberInt(104168), 
+            "score" : 4.374708531360321
+        }, 
+        {
+            "productId" : NumberInt(206404), 
+            "score" : 4.361185080424922
+        }, 
+        {
+            "productId" : NumberInt(507644), 
+            "score" : 4.290836165716499
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 4.281018986376895
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.249510337303516
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5eb35a9c404f8a0d17886647"), 
+    "userId" : NumberInt(50), 
+    "recs" : [
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 4.638186128316151
+        }, 
+        {
+            "productId" : NumberInt(425715), 
+            "score" : 4.429281594239226
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 4.3758612227870906
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 4.350126714520271
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 4.326585500564978
+        }, 
+        {
+            "productId" : NumberInt(371783), 
+            "score" : 4.310063274598334
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 4.274502054920022
+        }, 
+        {
+            "productId" : NumberInt(155001), 
+            "score" : 4.271956132362997
+        }, 
+        {
+            "productId" : NumberInt(250451), 
+            "score" : 4.265004091874522
+        }, 
+        {
+            "productId" : NumberInt(474201), 
+            "score" : 4.2474785926057494
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 4.220275632699027
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 4.171325258452207
+        }, 
+        {
+            "productId" : NumberInt(206404), 
+            "score" : 4.131024469923918
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 4.1239948708573255
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 4.113726534637278
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 4.109180711087911
+        }, 
+        {
+            "productId" : NumberInt(371783), 
+            "score" : 4.0908352755419255
+        }, 
+        {
+            "productId" : NumberInt(203971), 
+            "score" : 4.075558948545954
+        }, 
+        {
+            "productId" : NumberInt(8195), 
+            "score" : 4.067548879223269
+        }, 
+        {
+            "productId" : NumberInt(474201), 
+            "score" : 4.057748020194666
+        }, 
+        {
+            "productId" : NumberInt(520943), 
+            "score" : 4.052657370868033
+        }, 
+        {
+            "productId" : NumberInt(127544), 
+            "score" : 4.029862745234586
+        }, 
+        {
+            "productId" : NumberInt(139060), 
+            "score" : 4.0018938047078345
+        }, 
+        {
+            "productId" : NumberInt(410716), 
+            "score" : 3.9883648529482456
+        }, 
+        {
+            "productId" : NumberInt(300265), 
+            "score" : 3.910944444770061
+        }, 
+        {
+            "productId" : NumberInt(410716), 
+            "score" : 3.8935651606495423
+        }, 
+        {
+            "productId" : NumberInt(407523), 
+            "score" : 3.879781273486496
+        }, 
+        {
+            "productId" : NumberInt(13543), 
+            "score" : 3.8438615976071717
+        }, 
+        {
+            "productId" : NumberInt(155001), 
+            "score" : 3.8223132274613665
+        }, 
+        {
+            "productId" : NumberInt(443787), 
+            "score" : 3.815209399989036
+        }, 
+        {
+            "productId" : NumberInt(443787), 
+            "score" : 3.7961267398549356
+        }, 
+        {
+            "productId" : NumberInt(470839), 
+            "score" : 3.7785505688765473
+        }, 
+        {
+            "productId" : NumberInt(206404), 
+            "score" : 3.750949058298952
+        }, 
+        {
+            "productId" : NumberInt(501559), 
+            "score" : 3.7204796935290063
+        }, 
+        {
+            "productId" : NumberInt(425715), 
+            "score" : 3.701393627008066
+        }, 
+        {
+            "productId" : NumberInt(250451), 
+            "score" : 3.4222886310514555
+        }, 
+        {
+            "productId" : NumberInt(160597), 
+            "score" : 3.3905120112263507
+        }, 
+        {
+            "productId" : NumberInt(300265), 
+            "score" : 3.370535239320507
+        }, 
+        {
+            "productId" : NumberInt(13543), 
+            "score" : 3.3561337325237472
+        }, 
+        {
+            "productId" : NumberInt(8195), 
+            "score" : 3.2604969132037387
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5eb36028404f8a0d17886649"), 
+    "userId" : NumberInt(2987073), 
+    "recs" : [
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 4.5822165231748055
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 4.414801451945702
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.363659083969584
+        }, 
+        {
+            "productId" : NumberInt(218439), 
+            "score" : 4.352743584417697
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 4.327744007369287
+        }, 
+        {
+            "productId" : NumberInt(145218), 
+            "score" : 4.315790522898024
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 4.262996957114086
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 4.25655957869005
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.251090330190496
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 4.222874612099257
+        }, 
+        {
+            "productId" : NumberInt(104168), 
+            "score" : 4.217556692391876
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.201299998198857
+        }, 
+        {
+            "productId" : NumberInt(517740), 
+            "score" : 4.199397374334026
+        }, 
+        {
+            "productId" : NumberInt(126767), 
+            "score" : 4.198338656578248
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 4.1869283639610195
+        }, 
+        {
+            "productId" : NumberInt(184282), 
+            "score" : 4.18126659147047
+        }, 
+        {
+            "productId" : NumberInt(473113), 
+            "score" : 4.174367515484535
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 4.17402741471376
+        }, 
+        {
+            "productId" : NumberInt(511015), 
+            "score" : 4.160583924836145
+        }, 
+        {
+            "productId" : NumberInt(6797), 
+            "score" : 4.157508107793528
+        }, 
+        {
+            "productId" : NumberInt(507644), 
+            "score" : 4.14790285474696
+        }, 
+        {
+            "productId" : NumberInt(499898), 
+            "score" : 4.131669083930442
+        }, 
+        {
+            "productId" : NumberInt(228884), 
+            "score" : 4.086572612636013
+        }, 
+        {
+            "productId" : NumberInt(459600), 
+            "score" : 4.07870892679741
+        }, 
+        {
+            "productId" : NumberInt(314081), 
+            "score" : 4.0728464246609155
+        }, 
+        {
+            "productId" : NumberInt(387693), 
+            "score" : 4.040679812723694
+        }, 
+        {
+            "productId" : NumberInt(460360), 
+            "score" : 4.0124175276622855
+        }, 
+        {
+            "productId" : NumberInt(201454), 
+            "score" : 3.902811605310077
+        }, 
+        {
+            "productId" : NumberInt(487126), 
+            "score" : 3.8619491852559613
+        }, 
+        {
+            "productId" : NumberInt(145218), 
+            "score" : 3.832125928852335
+        }, 
+        {
+            "productId" : NumberInt(517740), 
+            "score" : 3.752808558403105
+        }, 
+        {
+            "productId" : NumberInt(469516), 
+            "score" : 3.6811443751721296
+        }, 
+        {
+            "productId" : NumberInt(6797), 
+            "score" : 3.608800385548359
+        }, 
+        {
+            "productId" : NumberInt(511015), 
+            "score" : 3.4849143511093694
+        }, 
+        {
+            "productId" : NumberInt(489369), 
+            "score" : 3.4066923450559106
+        }, 
+        {
+            "productId" : NumberInt(218439), 
+            "score" : 3.3020405649588733
+        }, 
+        {
+            "productId" : NumberInt(499898), 
+            "score" : 3.2563743347391223
+        }, 
+        {
+            "productId" : NumberInt(104168), 
+            "score" : 3.2494119133085286
+        }, 
+        {
+            "productId" : NumberInt(507644), 
+            "score" : 2.764246197885793
+        }, 
+        {
+            "productId" : NumberInt(126767), 
+            "score" : 2.694657071279069
+        }
+    ]
+}

@@ -1,0 +1,768 @@
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a3e"), 
+    "productId" : NumberInt(3982), 
+    "name" : "Fuhlen 富勒 M8眩光舞者时尚节能无线鼠标(草绿)(眩光.悦动.时尚炫舞鼠标 12个月免换电池 高精度光学寻迹引擎 超细微接收器10米传输距离)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/31QPvUDNavL._SY300_QL70_.jpg", 
+    "categories" : "外设产品|鼠标|电脑/办公", 
+    "tags" : "富勒|鼠标|电子产品|好用|外观漂亮"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a40"), 
+    "productId" : NumberInt(6797), 
+    "name" : "PHILIPS飞利浦HQ912/15两刀头充电式电动剃须刀", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/415UjOLnBML._SY300_QL70_.jpg", 
+    "categories" : "家用电器|个人护理电器|电动剃须刀", 
+    "tags" : "飞利浦|剃须刀|家用电器|好用|外观漂亮"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a41"), 
+    "productId" : NumberInt(8195), 
+    "name" : "Kingston 金士顿 Class4 32G TF卡(micro SD)手机存储卡", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41zUS3RjvRL._SY300_QL70_.jpg", 
+    "categories" : "存储设备|存储卡|电脑/办公", 
+    "tags" : "存储卡|金士顿|SD卡|容量挺大的|速度快|好用"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a43"), 
+    "productId" : NumberInt(13316), 
+    "name" : "Kingston 金士顿 DataTraveler 101 G2 32GB 优盘", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41nIbzEKQCL._SY300_QL70_.jpg", 
+    "categories" : "存储设备|U盘|电脑/办公", 
+    "tags" : "优盘|金士顿|好用|容量挺大的|速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a44"), 
+    "productId" : NumberInt(13543), 
+    "name" : "蔡康永的说话之道", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51RCZJf9vSL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "青春文学|文学艺术|图书音像", 
+    "tags" : "蔡康永|写的真好|不贵|内容不错|书"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a45"), 
+    "productId" : NumberInt(14103), 
+    "name" : "SanDisk 闪迪 microSDXC Class10 64GB至尊高速移动存储卡 UHS-1制式 读写速度最高可达30MB/s", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41mU1iHKkkL._SX300_QL70_.jpg", 
+    "categories" : "存储设备|存储卡|电脑/办公", 
+    "tags" : "存储卡|SD卡|容量挺大的|闪迪|速度快|好用"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a46"), 
+    "productId" : NumberInt(21643), 
+    "name" : "L'OREAL PARIS巴黎欧莱雅男士劲能醒肤露 8重功效50ml", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41%2B4D64-AEL._SY300_QL70_.jpg", 
+    "categories" : "男士乳液/面霜|男士护肤|美妆个护", 
+    "tags" : "好用|护肤品|到货速度快|欧莱雅"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a48"), 
+    "productId" : NumberInt(32512), 
+    "name" : "乐扣乐扣(lock&lock) 茶杯HPL934M", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41KDlN3n7-L._SY300_QL70_.jpg", 
+    "categories" : "杯具/水壶|厨房/餐具|家居生活", 
+    "tags" : "水壶|好用|乐扣乐扣|到货速度快|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a49"), 
+    "productId" : NumberInt(33864), 
+    "name" : "PNY 必恩威 纽约双子盘 甜心桃 16GB 优盘", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41Aej5QYV0L._SY300_QL70_.jpg", 
+    "categories" : "存储设备|U盘|电脑/办公", 
+    "tags" : "办公用品|优盘|必恩威|容量挺大的|速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a4a"), 
+    "productId" : NumberInt(48907), 
+    "name" : "洗颜专科柔澈泡沫卸妆乳液150ml(进)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41CztXe4GrL._SY300_QL70_.jpg", 
+    "categories" : "洁面|面部护理|美妆个护", 
+    "tags" : "好用|女士专用|洗脸用的|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a4c"), 
+    "productId" : NumberInt(57272), 
+    "name" : "因为痛,所以叫青春:写给独自站在人生路口的你(精装版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51gKCDBk5WL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "青春文学|文学艺术|图书音像", 
+    "tags" : "好看|内容丰富|书|青春文学|小说|励志|不贵|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a4e"), 
+    "productId" : NumberInt(62138), 
+    "name" : "WD 西部数据 My Passport 2.5' USB3.0 2TB移动硬盘(黑色 WDBY8L0020BBK-PESN-CH)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41zV8SlYd2L._SY300_QL70_.jpg", 
+    "categories" : "存储设备|移动硬盘|电脑/办公", 
+    "tags" : "WD|西部数据|硬盘|容量挺大的|速度快|好用"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a4f"), 
+    "productId" : NumberInt(66003), 
+    "name" : "诺基亚N1280(NOKIA N1280)简约超长待机直板手机(黑色)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41gmpH48SIL._SY300_QL70_.jpg", 
+    "categories" : "手机|手机通讯|手机/数码", 
+    "tags" : "通话质量好|诺基亚没得说|诺基亚|手机|到货速度快|好用"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a50"), 
+    "productId" : NumberInt(75701), 
+    "name" : "世界因你不同:李开复自传", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41yOWkivkKL._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "经管类图书|成功/励志|图书音像", 
+    "tags" : "书|经管类|励志|李开复|写的很好|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a51"), 
+    "productId" : NumberInt(90564), 
+    "name" : "挪威的森林", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41QgGeshKaL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "政治/军事|人文社科类图书|图书音像", 
+    "tags" : "书|小说|文学作品|村上春树|日本文学|好看|内容不错|村上什么时候拿诺贝尔奖"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a53"), 
+    "productId" : NumberInt(90897), 
+    "name" : "Elizabeth Arden伊丽莎白雅顿绿茶香水30ml(进)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41tHdnLVN1L._SY300_QL70_.jpg", 
+    "categories" : "彩妆|香水|美妆个护", 
+    "tags" : "化妆品|伊丽莎白|香水|绿茶味|好用|到货速度快|用起来很舒服"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a54"), 
+    "productId" : NumberInt(102383), 
+    "name" : "30年后,你拿什么养活自己?", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51FlI%2BU0TjL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "经管类图书|图书音像|投资理财", 
+    "tags" : "书|经管类|励志|鸡汤|好看|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a55"), 
+    "productId" : NumberInt(102886), 
+    "name" : "背包十年:我的职业是旅行(历经十年,如何从菜鸟背包客成为职业旅行家)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51QKIg6DjCL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "旅游/地图|生活类图书|图书音像", 
+    "tags" : "书|旅行|背包客必看|好看|励志|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a56"), 
+    "productId" : NumberInt(104168), 
+    "name" : "谢谢你离开我", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41Y3d7LHs8L._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|教育类|少儿图书|好看|很有教育意义|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a58"), 
+    "productId" : NumberInt(109236), 
+    "name" : "因为痛,所以叫青春:写给独自站在人生路口的你", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51cQTMsG1%2BL._SY445_QL70_.jpg", 
+    "categories" : "青春文学|文学艺术|图书音像", 
+    "tags" : "青春文学|书|内容不错|好看|鸡汤"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a59"), 
+    "productId" : NumberInt(116405), 
+    "name" : "世界上最伟大的推销员(附盘)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51hEnkl-XtL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|励志|经管类|鸡汤|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a5b"), 
+    "productId" : NumberInt(119166), 
+    "name" : "TP-LINK TL-WN725N 微型150M无线USB网卡", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51D5llrlF7L._SY300_QL70_.jpg", 
+    "categories" : "网络设备|网卡|电脑/办公", 
+    "tags" : "网卡|电子产品|TP-LINK|无线网卡|质量不错|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a5d"), 
+    "productId" : NumberInt(122417), 
+    "name" : "不能承受的生命之轻", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41MDQrsiY%2BL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "哲学/宗教|人文社科类图书|图书音像", 
+    "tags" : "哲学类|书|小说|米兰昆德拉|媚俗|好看|看不懂"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a5e"), 
+    "productId" : NumberInt(126767), 
+    "name" : "飞利浦台灯Metallic Silver 流光银FDS500", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/31R6IorDsyL._SY300_QL70_.jpg", 
+    "categories" : "灯具|台灯|家具/家装/建材", 
+    "tags" : "灯具|家具|飞利浦|外观漂亮|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a60"), 
+    "productId" : NumberInt(127544), 
+    "name" : "可悠然美肌沐浴露550ml(恬静清香 )(进)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41VlhEnW8hL._SY300_QL70_.jpg", 
+    "categories" : "沐浴露|身体护理|美妆个护", 
+    "tags" : "沐浴露|可悠然|好用|用起来很舒服"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a61"), 
+    "productId" : NumberInt(138554), 
+    "name" : "这些都是你给我的爱", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41yPN7iuAoL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|少儿图书|教育类|励志|鸡汤|好看|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a63"), 
+    "productId" : NumberInt(139060), 
+    "name" : "Neutrogena露得清深层净化洗面乳二支特惠装100g*2(特卖)(新老包装更替中,随机发货)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41QbMo3uK%2BL._SY300_QL70_.jpg", 
+    "categories" : "洁面|面部护理|美妆个护", 
+    "tags" : "洗面奶|化妆品|露得清|好用|用起来很舒服|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a64"), 
+    "productId" : NumberInt(145218), 
+    "name" : "好妈妈胜过好老师", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41DBneaGRwL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "亲子/家教|生活类图书|图书音像", 
+    "tags" : "书|教育类|写的很好|尹建莉老师的书真好|很有启发|到货速度快|有破损"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a66"), 
+    "productId" : NumberInt(154318), 
+    "name" : "Cetaphil丝塔芙洗面奶200ml(特卖)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41alSseXdXL._SY300_QL70_.jpg", 
+    "categories" : "洁面|面部护理|美妆个护", 
+    "tags" : "化妆品|洗面奶|面部护理|用起来很舒服|丝塔芙"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a67"), 
+    "productId" : NumberInt(155001), 
+    "name" : "PHILIPS飞利浦HP8203/00均衡呵护系列负离子功能电吹风", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41vXzDEzLjL._SY300_QL70_.jpg", 
+    "categories" : "家用电器|电吹风|个人护理电器", 
+    "tags" : "飞利浦|电吹风|外观漂亮|质量好|家用电器"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a69"), 
+    "productId" : NumberInt(156103), 
+    "name" : "气场修习术", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51tk-seyYsL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "经管类图书|成功/励志|图书音像", 
+    "tags" : "书|经管类|励志|鸡汤|垃圾"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a6a"), 
+    "productId" : NumberInt(160597), 
+    "name" : "白鹿原", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41BXjDoU9HL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "小说|文学艺术|图书音像", 
+    "tags" : "书|小说|文学|好看|内容不错|中国现代最好的小说|对那个时代描写很好|陈忠实的代表作"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a6c"), 
+    "productId" : NumberInt(167781), 
+    "name" : "Motorola 摩托罗拉 XT788 3G手机(黑色 电信定制)CDMA2000/GSM 双模双待 1.2GHz双核 Android 4.0系统 4.3寸康宁防刮玻璃屏 800M背照式摄像头 9.9mm超薄机身", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51Cs2hDkupL._SY300_QL70_.jpg", 
+    "categories" : "手机|手机通讯|手机/数码", 
+    "tags" : "摩托罗拉|手机|到货速度快|好用|电子产品"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a6e"), 
+    "productId" : NumberInt(183418), 
+    "name" : "谁的青春不迷茫", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41TEclaV%2BfL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|少儿图书|鸡汤|呵呵|励志|垃圾"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a6f"), 
+    "productId" : NumberInt(183679), 
+    "name" : "全新Kindle Paperwhite电子书阅读器", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41xDoQ9vvTL._SY300_QL70_.jpg", 
+    "categories" : "数码影音|电纸书/电子阅览器|手机/数码", 
+    "tags" : "电子产品|亚马逊|电纸书|kindle|好用|到货速度快|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a71"), 
+    "productId" : NumberInt(184282), 
+    "name" : "追风筝的人", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41Zu6wuZ4VL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "小说|文学艺术|图书音像", 
+    "tags" : "书|小说|文学|很感动|哭的稀里哗啦|好看|到货速度快|内容挺好|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a73"), 
+    "productId" : NumberInt(186429), 
+    "name" : "麦田里的守望者", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41AqJNk7d7L._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "小说|文学艺术|图书音像", 
+    "tags" : "书|很感动|塞林格|有点颓废|小说|好看|内容不错|文学"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a75"), 
+    "productId" : NumberInt(201454), 
+    "name" : "小王子(65周年纪念版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51KgEWM2BiL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|小说|文学|很感动|哭的稀里哗啦|看了很多遍|法国"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a76"), 
+    "productId" : NumberInt(203971), 
+    "name" : "如何说孩子才会听 怎么听孩子才肯说(2012修订版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/516txkpnK%2BL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "亲子/家教|生活类图书|图书音像", 
+    "tags" : "书|教育类|少儿图书|到货速度快|有破损|很有启发"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a78"), 
+    "productId" : NumberInt(204025), 
+    "name" : "围城", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51G8wGPoHgL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "小说|文学艺术|图书音像", 
+    "tags" : "书|小说|文学|钱钟书|讽刺很犀利|好看|有破损"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a7b"), 
+    "productId" : NumberInt(206404), 
+    "name" : "0-3岁小婴孩必备全书:经典童话本(套装10本)(童话大师传世名作)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51Aj56mwviL._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|教育类|童话|好看|内容丰富|孩子看了很喜欢"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a7c"), 
+    "productId" : NumberInt(218439), 
+    "name" : "何以笙箫默(7周年精装珍藏版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51DbRsaJQ8L._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "哲学/宗教|人文社科类图书|图书音像", 
+    "tags" : "书|小说|好看|垃圾|呵呵|狗血爱情"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a7d"), 
+    "productId" : NumberInt(228884), 
+    "name" : "撒哈拉的故事", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41liBBduGwL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|三毛|散文|好看|励志|内容不错|还不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a7f"), 
+    "productId" : NumberInt(231449), 
+    "name" : "\"致我们终将逝去的青春(附\"\"致青春\"\"珍藏卡册)\"", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51EzZjyJYfL._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "青春文学|文学艺术|图书音像", 
+    "tags" : "书|狗血|看了电影买的书|有破损|到货速度快|小说|青春文学|文学"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a81"), 
+    "productId" : NumberInt(250451), 
+    "name" : "最好的时光在路上:中国国家地理", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51avrbeLOKL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "旅游/地图|生活类图书|图书音像", 
+    "tags" : "书|旅行|国家地理系列|好看|内容丰富"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a84"), 
+    "productId" : NumberInt(253869), 
+    "name" : "牛津高阶英汉双解词典(第7版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51l0VjtzefL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|外语|少儿/教育图书", 
+    "tags" : "书|英语|词典|好用|不愧是牛津大学出的|经典|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a87"), 
+    "productId" : NumberInt(258451), 
+    "name" : "Bear小熊 酸奶机 SNJ-10A (加送4个分杯内胆,绿色,亚马逊订制)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41YFb2l1IlL._SY300_QL70_.jpg", 
+    "categories" : "家用电器|厨房电器|酸奶机", 
+    "tags" : "小熊|家用电器|好用|酸奶机|到货速度快|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a3f"), 
+    "productId" : NumberInt(259637), 
+    "name" : "小狗钱钱", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51oNLo7MsmL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|少儿图书|教育类|童书|不错|孩子很喜欢"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a42"), 
+    "productId" : NumberInt(260348), 
+    "name" : "西尔斯亲密育儿百科(全球最权威最受欢迎的育儿百科最新定本)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41XLbU3%2B3lL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "育儿/早教|生活类图书|图书音像", 
+    "tags" : "书|育儿类|教育类|不错|内容丰富|西尔斯"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a47"), 
+    "productId" : NumberInt(275707), 
+    "name" : "猜猜我有多爱你", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51OaoKgR8RL._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|教育类|不错|内容丰富|少儿图书|好看"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a4b"), 
+    "productId" : NumberInt(286997), 
+    "name" : "千纤草黄瓜水500ml", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/31i7lIchHBL._SY300_QL70_.jpg", 
+    "categories" : "面部护理|美妆个护|化妆水/爽肤水", 
+    "tags" : "化妆品|面部护理|千纤草|到货速度快|用起来很舒服"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a4d"), 
+    "productId" : NumberInt(294209), 
+    "name" : "不畏将来 不念过去", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51DbBJiAbOL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "政治/军事|人文社科类图书|图书音像", 
+    "tags" : "书|军事类|政治类|好看|有破损|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a52"), 
+    "productId" : NumberInt(300265), 
+    "name" : "Edifier漫步者 H180 耳塞式耳机 白色(经典时尚)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41LUEX%2BDciL._SY300_QL70_.jpg", 
+    "categories" : "外设产品|耳机/耳麦|电脑/办公", 
+    "tags" : "耳机|耳塞式耳机|电子产品|漫步者|外观漂亮|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a57"), 
+    "productId" : NumberInt(302217), 
+    "name" : "Elizabeth Arden伊丽莎白雅顿绿茶香水50ml(进)(特卖)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41AAc8vsA5L._SY300_QL70_.jpg", 
+    "categories" : "彩妆|香水|美妆个护", 
+    "tags" : "化妆品|伊丽莎白|香水|好用|很香|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a5a"), 
+    "productId" : NumberInt(314081), 
+    "name" : "时寒冰说:经济大棋局,我们怎么办", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51DDJuy6zbL._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "政治/军事|人文社科类图书|图书音像", 
+    "tags" : "书|军事类|政治类|时寒冰|经管类|扯淡|很有启发|好看"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a5c"), 
+    "productId" : NumberInt(323519), 
+    "name" : "Rapoo 雷柏 1090光学鼠标(经典黑)(智能自动对码/1000DPI高精度光学引擎)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/410NDN9q1EL._SY300_QL70_.jpg", 
+    "categories" : "外设产品|鼠标|电脑/办公", 
+    "tags" : "电子产品|鼠标|外设|质量好|雷柏|到货速度快|外观漂亮|好用"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a5f"), 
+    "productId" : NumberInt(326582), 
+    "name" : "Mentholatum曼秀雷敦男士冰爽活炭洁面乳150ml (特卖)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41Jc24lBavL._SY300_QL70_.jpg", 
+    "categories" : "男士护肤|美妆个护|男士洁面", 
+    "tags" : "化妆品|男士|曼秀雷敦|好用|用起来很舒服|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a62"), 
+    "productId" : NumberInt(333125), 
+    "name" : "素年锦时", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41Pzfrt4ZVL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "音像|图书音像|有声读物", 
+    "tags" : "书|有声读物|青春文学|文学|小说|好看|狗血"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a65"), 
+    "productId" : NumberInt(352021), 
+    "name" : "Lenovo 联想 A820T TD-SCDMA/GSM 双卡双待 3G手机(白色 移动定制) 四核1.2G处理器 800万像素", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41GOej5rPUL._SX300_QL70_.jpg", 
+    "categories" : "手机|手机通讯|手机/数码", 
+    "tags" : "联想|手机|质量好|联想手机还不错|好用|待机时间长"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a68"), 
+    "productId" : NumberInt(353799), 
+    "name" : "沉思录", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41MA9JZAjPL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "哲学/宗教|人文社科类图书|图书音像", 
+    "tags" : "书|哲学类|励志|值得一读再读|总理推荐|很有启发"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a6b"), 
+    "productId" : NumberInt(365357), 
+    "name" : "怀孕40周完美方案(升级畅销版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51NKwb2S-jL._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "孕产/胎教|生活类图书|图书音像", 
+    "tags" : "书|育儿类|教育类|内容丰富|有破损|胎教类|到货速度快|孕妇必读"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a6d"), 
+    "productId" : NumberInt(367460), 
+    "name" : "Lenovo 联想 A820T 3G手机(深邃黑)TD-SCDMA/GSM 双卡双待 四核1.2G处理器 800万像素", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/412LjS0KhpL._SY300_QL70_.jpg", 
+    "categories" : "手机|手机通讯|手机/数码", 
+    "tags" : "手机|联想|待机时间长|好用|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a70"), 
+    "productId" : NumberInt(371783), 
+    "name" : "现代汉语词典(第6版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/511Gu6tkFuL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "其它图书|工具书|图书音像", 
+    "tags" : "书|词典|好用|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a72"), 
+    "productId" : NumberInt(379243), 
+    "name" : "苏菲的世界", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41yL3NnPJgL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿/教育图书|考试", 
+    "tags" : "书|哲学类|通俗易懂|值得一读再读"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a74"), 
+    "productId" : NumberInt(383502), 
+    "name" : "不抱怨的世界(增订版)(附不抱怨手环1只)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51tIPRToL3L._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "手工/DIY|生活类图书|图书音像", 
+    "tags" : "书|鸡汤|励志|很有启发|呵呵"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a77"), 
+    "productId" : NumberInt(387693), 
+    "name" : "我的第一本专注力训练书", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/61%2BcsqqaWtL._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|少儿图书|教育类|内容丰富|很有启发"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a79"), 
+    "productId" : NumberInt(406697), 
+    "name" : "Merries花王纸尿裤S82片(日本进口全新款)适合4-8kg", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51GdcVwBEeL._SY300_QL70_.jpg", 
+    "categories" : "尿裤湿巾|纸尿裤/拉拉裤/纸尿片|母婴/玩具", 
+    "tags" : "纸尿裤|好用|花王|母婴用品|到货速度快|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a7a"), 
+    "productId" : NumberInt(407523), 
+    "name" : "送你一颗子弹", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41hIu%2BPUP%2BL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "卡通|音像|图书音像", 
+    "tags" : "书|到货速度快|散文|刘瑜的书必须支持|有破损"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a7e"), 
+    "productId" : NumberInt(407816), 
+    "name" : "\"幸福了吗?(附完整版\"\"白岩松耶鲁大学演讲\"\"光盘1张)\"", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51PuWq263LL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|外语|少儿/教育图书", 
+    "tags" : "书|教育类|鸡汤|励志|白岩松|演讲"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a80"), 
+    "productId" : NumberInt(410608), 
+    "name" : "哈尔斯HB-500F真空吊带保温杯500ml", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41QCHGhjlML._SY300_QL70_.jpg", 
+    "categories" : "保温杯/保温壶|厨房/餐具|家居生活", 
+    "tags" : "保温杯|哈尔斯|餐具|好用|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a82"), 
+    "productId" : NumberInt(410716), 
+    "name" : "中日交流标准日本语(初级)(套装上下册)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51PtQsbW%2B-L._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|外语|少儿/教育图书", 
+    "tags" : "书|教育类|日语|教材|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a83"), 
+    "productId" : NumberInt(425715), 
+    "name" : "我们仨(大字版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/416uOM6O9nL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "文学艺术|文学类|图书音像", 
+    "tags" : "书|散文|文学|杨绛|钱钟书|好看|很感人"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a85"), 
+    "productId" : NumberInt(437230), 
+    "name" : "三杯茶", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/5146UDza%2BDL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "小说|文学艺术|图书音像", 
+    "tags" : "书|散文|文学|写的不错|内容不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a86"), 
+    "productId" : NumberInt(438242), 
+    "name" : "EARISE 雅兰仕AL-202 2.0声道 线控 笔记本音箱 (黑色)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41F1x3mdPsL._SY300_QL70_.jpg", 
+    "categories" : "外设产品|电脑/办公|电脑音箱", 
+    "tags" : "雅兰仕|音箱|电子产品|外观漂亮"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a88"), 
+    "productId" : NumberInt(442300), 
+    "name" : "人生若只如初见", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41kcaeWon7L._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "文学艺术|文学类|图书音像", 
+    "tags" : "书|文学|诗词|写的不错|好看|通俗易懂|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a89"), 
+    "productId" : NumberInt(442353), 
+    "name" : "三国演义", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51Wyy6utXlL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "小说|文学艺术|图书音像", 
+    "tags" : "书|文学|四大名著|罗贯中|好看|值得一读再读|传统文化|小说"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a8a"), 
+    "productId" : NumberInt(443787), 
+    "name" : "美的加湿器S20U-M米宝宝(颜色随机)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/415XuLOUXOL._SY300_QL70_.jpg", 
+    "categories" : "家用电器|加湿/除湿器|生活电器", 
+    "tags" : "美的|家用电器|加湿器|外观漂亮|质量好|好用"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a8b"), 
+    "productId" : NumberInt(457976), 
+    "name" : "我们仨", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41d6KLz9MDL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "传记|人文社科类图书|图书音像", 
+    "tags" : "书|散文|文学|杨绛|钱钟书|好看|很感人"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a8c"), 
+    "productId" : NumberInt(459600), 
+    "name" : "儿童动物百科全书", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/61fOjNlt39L._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "育儿/早教|生活类图书|图书音像", 
+    "tags" : "书|早教|教育类|育儿类|少儿图书|百科全书|内容丰富"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a8d"), 
+    "productId" : NumberInt(460360), 
+    "name" : "Styliving宝裕合BFNC066B烤黑漆迷你四层置物架", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41Ri4BCfTeL._SY300_QL70_.jpg", 
+    "categories" : "收纳整理|收纳|家居生活", 
+    "tags" : "家居生活|好用|质量好|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a8e"), 
+    "productId" : NumberInt(469516), 
+    "name" : "傲慢与偏见(英文版)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51oDRwjsCaL._SX258_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|外语|少儿/教育图书", 
+    "tags" : "书|小说|文学|英语|简奥斯汀|英文小说|好看"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a8f"), 
+    "productId" : NumberInt(470839), 
+    "name" : "韩寒:独唱团(第1辑)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51wDiU3JacL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "青春文学|文学艺术|图书音像", 
+    "tags" : "书|杂志|韩寒|文学|独唱团|好看|只出了一期|呵呵"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a90"), 
+    "productId" : NumberInt(473113), 
+    "name" : "活着", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51UETWQschL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "音像|图书音像|有声读物", 
+    "tags" : "书|小说|余华|很感人|文学|看的很压抑|写的很好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a91"), 
+    "productId" : NumberInt(474201), 
+    "name" : "如何说孩子才会听 怎么听孩子才肯说", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51Qk-5K4BTL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "亲子/家教|生活类图书|图书音像", 
+    "tags" : "书|教育类|育儿类|内容丰富|很有启发"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a92"), 
+    "productId" : NumberInt(474853), 
+    "name" : "查名一猫防水防泪睫毛组合(睫毛膏8ml+眼线液6ml)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/31fB78eT38L._SY300_QL70_.jpg", 
+    "categories" : "睫毛膏|彩妆|美妆个护", 
+    "tags" : "化妆品|睫毛膏|好用|质量好|用起来很舒服"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a93"), 
+    "productId" : NumberInt(487126), 
+    "name" : "虚实之间", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/412qSligE2L._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "文学艺术|文学类|图书音像", 
+    "tags" : "书|文学|小说|好看|内容不错|到货速度快"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a94"), 
+    "productId" : NumberInt(489369), 
+    "name" : "英语词汇的奥秘(修订本)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51dPPX1EIdL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿/教育图书|考试", 
+    "tags" : "书|词典|英语|教育类|写的不错"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a95"), 
+    "productId" : NumberInt(492579), 
+    "name" : "红楼梦", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51ebqcYP-gL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "图书音像|少儿|少儿/教育图书", 
+    "tags" : "书|小说|文学|四大名著|值得一读再读|曹雪芹|经典|传统文化"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a96"), 
+    "productId" : NumberInt(499898), 
+    "name" : "人间词话 手稿本全编", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51tZT18-GsL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "文学艺术|文学类|图书音像", 
+    "tags" : "书|经典|传统文化|王国维|文学|没得说"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a97"), 
+    "productId" : NumberInt(501559), 
+    "name" : "A4Tech 双飞燕OP-520NU有线针光鼠标USB接口 黑色 (针光引擎:新一代针光技术,超强过界 穿透三维,定位精准,毛上也照飞)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/31k9g-C2h-L._SY300_QL70_.jpg", 
+    "categories" : "外设产品|鼠标|电脑/办公", 
+    "tags" : "鼠标|双飞燕|办公用品|外设|质量好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a98"), 
+    "productId" : NumberInt(505556), 
+    "name" : "Casio 卡西欧EDIFICE系列三眼六针石英男表 EF-305D-1AVDR", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51hdpobqULL._SY300_QL70_.jpg", 
+    "categories" : "钟表/首饰/眼镜/礼品|钟表|手表", 
+    "tags" : "卡西欧|手表|男士|质量好|不贵"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a99"), 
+    "productId" : NumberInt(507644), 
+    "name" : "你是人间的四月天", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/41n9yJRcBTL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "小说|文学艺术|图书音像", 
+    "tags" : "书|文学|诗词|林徽因|写的不错|真好"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a9a"), 
+    "productId" : NumberInt(508447), 
+    "name" : "小时代3.0刺金时代(限量版)(附郭敬明最新写真明信片+海报二十张+特制3D眼镜+精美大开海报4张)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/514%2ByTYTgOL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "青春文学|文学艺术|图书音像", 
+    "tags" : "青春文学|书|小说|呵呵|郭敬明|垃圾|拜金|狗血"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a9b"), 
+    "productId" : NumberInt(511015), 
+    "name" : "万历十五年", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51aFUdyCbXL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "政治/军事|人文社科类图书|图书音像", 
+    "tags" : "书|历史类|黄仁宇|政治类|军事类|值得一读再读|大历史观代表作"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a9c"), 
+    "productId" : NumberInt(517740), 
+    "name" : "步步惊心(新版)(附精美明信片)", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/51cl56NMqNL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "青春文学|文学艺术|图书音像", 
+    "tags" : "书|青春文学|步步惊心|垃圾|狗血|呵呵|小说"
+}
+{ 
+    "_id" : ObjectId("5e4e456e80c196e7ed9a7a9d"), 
+    "productId" : NumberInt(520943), 
+    "name" : "穆斯林的葬礼", 
+    "imgUrl" : "https://images-cn-4.ssl-images-amazon.com/images/I/417dsC9NdOL._SY344_BO1,204,203,200_QL70_.jpg", 
+    "categories" : "工艺饰品|家具/家装/建材", 
+    "tags" : "小说|书|好看|文学|狗血|很感人"
+}
